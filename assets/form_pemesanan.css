@@ -1,0 +1,35 @@
+* {
+    font-family: 'Poppins', sans-serif !important;
+}
+body{
+    text-align: center;
+    font-size: 20px;
+} 
+img{
+    margin: auto;
+    width: 200px;
+} 
+.form {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+
+    /* width: 500px; */
+} 
+input, select {
+    display: block;
+    text-align: left;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.mitek button {
+    color: white;
+    background: #55ACEE;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+.mitek button:hover {
+    color: black;
+}
