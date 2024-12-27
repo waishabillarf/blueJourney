@@ -1,0 +1,173 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+img {
+margin: auto;
+width: 200px;
+display: block;
+}
+.transaksi {
+display: flex;
+justify-content: center;
+}
+
+.transaksi th {
+background: #55ACEE;
+color: white;
+}
+
+.transaksi table, tr, th, td{
+border: 1px solid lightgray;
+border-collapse: collapse;
+padding: 20px 20px;
+text-align: center;
+}
+.balik {
+display: flex;
+justify-content: center;
+padding-top: 30px;
+}
+.balik button {
+color: white;
+background: #55ACEE;
+border: none;
+padding: 10px 10px;
+border-radius: 20px;
+}
+.balik button:hover {
+color: black;
+}
+/* .kiri {
+background: white;
+width: 50%;
+height: 100vh;
+}
+.kiri tr, th {
+background: #55ACEE;
+color: white;
+} */
+
+/* .kiri img {
+position: absolute;
+top: -10px;
+left: 30px;
+border: none;
+width: 200px;
+}
+.kiri .ticket {
+width: 500px;
+margin: auto;
+margin-top: 75px;
+}
+.kiri .ticket_wrapper {
+border: 1px solid lightgray;
+border-radius: 15px;
+}
+.kiri .ticket .isi {
+display: flex;
+width: 100%;
+align-items: center;
+
+}
+.kiri .ticket img {
+width: 70px;
+height: 60px;
+position: unset;
+margin-right: 20px;
+margin-left: 20px;
+}
+.kiri button {
+color: white;
+background: #55ACEE;
+border: none;
+padding: 10px 20px;
+border-radius: 20px;
+}
+.kiri button:hover {
+color: black;
+} */
+/* .kanan {
+width: 50%;
+background: white;
+height: 100vh;
+}
+.duwaAtas {
+display: block;
+margin: auto;
+width: 500px;
+margin-top: 150px;
+}
+.duwaAtas div {
+width: 100%;
+}
+.duwaAtas label, .ktp label, .bawah label {
+display: block;
+}
+.duwaAtas input, .ktp input, .bawah input {
+border: 1px solid lightgray;
+border-radius: 10px;
+padding: 10px 15px;
+width: 100%;
+margin-bottom: 20px;
+}
+.ktp {
+display: block;
+margin: auto;
+width: 500px;
+}
+.bawah {
+display: flex;
+justify-content: space-between;
+width: 500px;
+margin: auto;
+}
+.bawah input {
+width: 100%;
+}
+.bawahPol {
+display: block;
+margin: auto;
+width: 500px;
+}
+.bawahPol label {
+font-size: 10px;
+}
+.bawahPol div {
+display: flex;
+align-items: center;
+}
+.bawahPol button {
+display: block;
+width: 100%;
+border: none;
+border-radius: 10px;
+padding: 11px 24px;
+background: #55ACEE;
+color: white;
+}
+.payment {
+width: 500px;
+margin: auto;
+}
+.payment .isi {
+display: flex;
+}
+.payment label {
+display: block;
+} */
+/* .payment .Kiri img, .Kanan img {
+height: 15px;
+}
+.payment .Kiri, .payment .Kanan {
+display: flex;
+justify-content: space-between;
+align-items: center;
+border: 1px solid lightgray;
+border-radius: 10px;
+width: 50%;
+}
+.payment .Kiri {
+margin-right: 20px;
+} */
+
+
