@@ -41,8 +41,7 @@ require "koneksi.php";
         <img src="assets/image/peta.png" alt="kapal">
         <div>
             <h1>Blue Journey</h1>
-            <h2>Bersama Kami, <br>
-                kemanapun kamu pergi</h2>
+            <h2>Explore The World</h2>
             <p>Blue Journey invites you to start seamless adventures across the seas and skies<br>
                 A gateway to exploration, it bridges destinations with ease and grace<br>
                 Let your travels be guided by simplicity and inspiration<br>
