@@ -116,7 +116,7 @@ if (isset($_POST['add'])) {
                 <input type="number" name="jumlah">
             </p>
             <div class="mitek">
-            <a href="customer_homepage.php"><button>Back to homepage</button></a>
+            <a href="customer_homepage.php" class="button">Back to homepage</a>
                 <button name="add">Pesan tiket</button>
             </div>
         </form>
