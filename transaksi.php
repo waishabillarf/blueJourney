@@ -46,7 +46,7 @@ $transactionHistory = mysqli_fetch_all($sql, MYSQLI_ASSOC);
                 <th>Nama Pelanggan</th>
                 <th>NIK</th>
                 <th>No. Telepon</th>
-                <th>Nama Kapal</th>
+                <th>Nama Transportasi</th>
                 <th>Rute</th>
                 <th>Waktu Berangkat</th>
                 <th>Jumlah Tiket</th>

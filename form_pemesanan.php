@@ -64,7 +64,7 @@ if (isset($_POST['add'])) {
         <img src="assets/image/Journey.png" alt="">
     </div>
     <div class="form">
-        <form action="customer_homepage.php" method="post">
+        <form action="" method="post">
             <p>
                 <label for="name">Name :</label><br>
                 <input class="name" type="text" name="name" id="name" placeholder="Enter your Name" value="<?php echo isset($_SESSION['logged_in_user']) ? $_SESSION['logged_in_user'] : ''; ?>" readonly>
