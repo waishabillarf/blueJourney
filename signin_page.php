@@ -104,7 +104,7 @@ if (isset($_POST["submit"])) {
                 <label class="checkbox" for="checkbox">I agree to the terms & policy</label>
             </p> -->
             <p class="submit">
-                <input class="submit2" type="submit" name="submit" value="Sign Up">
+                <input class="submit2" type="submit" name="submit" value="sign up">
             </p>
             <!-- <div class="or">
                 <div class="huruf">or</div>
