@@ -41,7 +41,7 @@
                 A gateway to exploration, it bridges destinations with ease and grace<br>
                 Let your travels be guided by simplicity and inspiration<br>
                 as every ticket booked brings you closer to the horizons you dream of<br>
-                Begin your story with Blue Journey—where every voyage starts with a click</p>
+                Begin your story with Blue Journey, where every voyage starts with a click</p>
             <a href="#schedule_section" class="button">Get ticket</a>
         </div>
     </div>
