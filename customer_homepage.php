@@ -41,7 +41,7 @@ require "koneksi.php";
         <img src="assets/image/peta.png" alt="kapal">
         <div>
             <h1>Blue Journey</h1>
-            <h2>Explore The Wrold</h2>
+            <h2>Explore The World</h2>
             <p>Blue Journey invites you to start seamless adventures across the seas and skies<br>
                 A gateway to exploration, it bridges destinations with ease and grace<br>
                 Let your travels be guided by simplicity and inspiration<br>
@@ -53,10 +53,6 @@ require "koneksi.php";
     <div class="blog-container">
         <header>
             <h1>Types and Ticket</h1>
-            <!-- <div class="pencetan"> -->
-            <!-- <a href="#" class="button1">Date & time</a>
-                <a href="#" class="button1">Any category</a> -->
-            <!-- </div> -->
         </header>
         <div class="blog-index" id="type&ticket_section">
             <div class="snippet">
@@ -162,36 +158,6 @@ require "koneksi.php";
         <a href="form_pemesanan.php"><button>Get ticket</button></a>
     </div>
 
-    <!-- <div class="superhero" id="schedule_section">
-        <div class="superhero_content">
-            <div class="form">
-                <div>
-                    <label for="">Search Ticket</label>
-                    <input type="text" placeholder="blababla">
-                </div>
-                <div>
-                    <label for="">Type</label>
-                    <input type="text" placeholder="blablabla">
-                </div>
-                <div>
-                    <label for="">Time</label>
-                    <input type="text" placeholder="blablabla">
-                </div>
-                <div>
-                    <label for="">From</label>
-                    <input type="text" placeholder="blablabla">
-                </div>
-                <div>
-                    <label for="">To</label>
-                    <input type="text" placeholder="blablabla">
-                </div>
-            </div>
-            <div class="getTicket">
-                <a href="http://localhost/TubesPemweb/TUBES/transaksi.php"><button>Get ticket</button></a>
-            </div>
-
-        </div>
-    </div> -->
     <div class="search">
         <img src="assets/image/peta duwa.png" alt="kapal">
         <div class="search_isian">
