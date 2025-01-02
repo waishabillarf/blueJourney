@@ -1,0 +1,50 @@
+*{
+    font-family: 'Poppins', sans-serif !important;
+}
+img {
+    margin: auto;
+    width: 200px;
+    display: block;
+}
+.verified {
+    display: flex;
+    justify-content: center;
+}
+.verified th {
+    background: #55ACEE;
+    color: white;
+}
+
+.verified table, tr, th, td{
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    padding: 20px 20px;
+    text-align: center;
+}
+.verified button {
+    color: white;
+    background: #55ACEE;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.verified button:hover {
+    color: black;
+}
+.balik {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.balik button {
+    color: white;
+    background: #55ACEE;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+.balik button:hover {
+    color: black;
+}
+
