@@ -105,11 +105,11 @@ if (isset($_POST['add'])) {
             </p>
             <p>
                 <label for="jam_berangkat">Time :</label>
-                <input type="text" name="jam" id="jam">
+                <input type="text" name="jam" id="jam" readonly>
             </p>
             <p>
                 <label for="harga">Harga :</label>
-                <input type="text" name="harga" id="harga">
+                <input type="text" name="harga" id="harga" readonly>
             </p>
             <p>
                 <label for="jumlah">Quantity :</label>

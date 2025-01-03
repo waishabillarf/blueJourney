@@ -52,7 +52,7 @@ $connection->close();
 
 <body>
     <div>
-        <img src="assets/image/Mari Berlayar Biru Hori.png" alt="">
+        <img src="assets/image/Journey.png" alt="">
     </div>
     <div class="verified">
         <table>
