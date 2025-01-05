@@ -36,13 +36,12 @@
         <img src="assets/image/peta.png" alt="kapal">
         <div>
             <h1>Blue Journey</h1>
-            <h2>Bersama Kami, <br>
-                kemanapun kamu pergi</h2>
+            <h2>Explore The World</h2>
             <p>Blue Journey invites you to start seamless adventures across the seas and skies<br>
                 A gateway to exploration, it bridges destinations with ease and grace<br>
                 Let your travels be guided by simplicity and inspiration<br>
                 as every ticket booked brings you closer to the horizons you dream of<br>
-                Begin your story with Blue Journey—where every voyage starts with a click</p>
+                Begin your story with Blue Journey, where every voyage starts with a click</p>
             <a href="#schedule_section" class="button">Get ticket</a>
         </div>
     </div>

@@ -30,6 +30,18 @@ input, select {
     padding: 10px 10px;
     border-radius: 20px;
 }
+.mitek .button {
+    font-size: 13.5px;
+    text-decoration: none;
+    color: white;
+    background: #55ACEE;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+.mitek .button:hover {
+    color: black;
+}
 .mitek button:hover {
     color: black;
 }

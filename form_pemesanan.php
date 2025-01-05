@@ -64,7 +64,7 @@ if (isset($_POST['add'])) {
         <img src="assets/image/Journey.png" alt="">
     </div>
     <div class="form">
-        <form action="customer_homepage.php" method="post">
+        <form action="" method="post">
             <p>
                 <label for="name">Name :</label><br>
                 <input class="name" type="text" name="name" id="name" placeholder="Enter your Name" value="<?php echo isset($_SESSION['logged_in_user']) ? $_SESSION['logged_in_user'] : ''; ?>" readonly>
@@ -105,18 +105,18 @@ if (isset($_POST['add'])) {
             </p>
             <p>
                 <label for="jam_berangkat">Time :</label>
-                <input type="text" name="jam" id="jam">
+                <input type="text" name="jam" id="jam" readonly>
             </p>
             <p>
                 <label for="harga">Harga :</label>
-                <input type="text" name="harga" id="harga">
+                <input type="text" name="harga" id="harga" readonly>
             </p>
             <p>
                 <label for="jumlah">Quantity :</label>
                 <input type="number" name="jumlah">
             </p>
             <div class="mitek">
-            <a href="customer_homepage.php"><button>Back to homepage</button></a>
+            <a href="customer_homepage.php" class="button">Back to homepage</a>
                 <button name="add">Pesan tiket</button>
             </div>
         </form>
