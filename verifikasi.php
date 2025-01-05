@@ -61,11 +61,7 @@ $connection->close();
                 <th>Transaction ID</th>
                 <th>Username</th>
                 <th>Jumlah Tiket</th>
-<<<<<<< HEAD
-                <th>Transportation Type</th>
-=======
                 <th>Ship Type</th>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
                 <th>Total Bayar</th>
                 <th>Status</th>
                 <th>Action</th>

@@ -15,20 +15,12 @@
 
 <body>
     <div class="kontak">
-<<<<<<< HEAD
         <a href="https://wa.me/6285748029269?text=Assalamu%27alaikum%2C%20perkenalkan%20nama%20saya"><img src="assets/image/warill.png" alt=""></a>
-=======
-    <a href="https://wa.me/6285748029269?text=Assalamu%27alaikum%2C%20perkenalkan%20nama%20saya"><img src="assets/image/warill.png" alt=""></a>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
     </div>
     <div class="nav-container">
         <header>
             <div class="logo">
-<<<<<<< HEAD
                 <img src="assets/image/jurney putih baru.png" alt="logo">
-=======
-                <img src="assets/image/logo bener.png" alt="logo">
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
             </div>
             <nav>
                 <ul>
@@ -42,67 +34,33 @@
         </header>
     </div>
     <div class="hero-container">
-<<<<<<< HEAD
         <img src="assets/image/peta.png" alt="kapal">
         <div>
-        <h1>Blue Journey</h1>
-            <h2>Bersama Kami, <br>
-                kemanapun kamu pergi</h2>
+            <h1>Blue Journey</h1>
+            <h2>Explore The World</h2>
             <p>Blue Journey invites you to start seamless adventures across the seas and skies<br>
                 A gateway to exploration, it bridges destinations with ease and grace<br>
                 Let your travels be guided by simplicity and inspiration<br>
                 as every ticket booked brings you closer to the horizons you dream of<br>
-                Begin your story with Blue Journey—where every voyage starts with a click</p>
-=======
-        <img src="assets/image/Kapal.png" alt="kapal">
-        <div>
-            <h1>MARI BERLAYAR</h1>
-            <h2>Bersama Kami, <br>
-                kemanapun kamu pergi</h2>
-            <p>Mari Berlayar is a ship ticketing company based <br>
-                in Surabaya, East Java. This company was <br>
-                founded in 2023 and has served the Indonesian <br>
-                people to travel to various regions in the <br>
-                archipelago via sea transportation.</p>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
-            <!-- <a href="#" class="button">Get ticket</a> -->
-            <!-- <a href="#" class="button">learn more</a> -->
+                Begin your story with Blue Journey, where every voyage starts with a click</p>
+            <!-- <a href="form_pemesanan.php" class="button">Get ticket</a> -->
         </div>
     </div>
     <div class="blog-container">
         <header>
             <h1>Types and Ticket</h1>
-<<<<<<< HEAD
-            <!-- <div class="pencetan"> -->
-            <!-- <a href="#" class="button1">Date & time</a>
-                <a href="#" class="button1">Any category</a> -->
-            <!-- </div> -->
-=======
-            <div class="pencetan">
-                <!-- <a href="#" class="button1">Date & time</a>
-                <a href="#" class="button1">Any category</a> -->
-            </div>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
         </header>
         <div class="blog-index" id="type&ticket_section">
             <div class="snippet">
                 <img class="snippet-img" src="assets/image/kalimutu.jpg">
                 <div class="snippet-txt">
                     <div class="bulan">
-<<<<<<< HEAD
                         <p>JAN</p>
                         <h1>21</h1>
                     </div>
                     <div class="deskripsiKapal">
                         <h2>KM KELIMUTU <br>
                             SURABAYA - SAMPIT</h5>
-=======
-                        <p>DEC</p>
-                        <h1>21</h1>
-                    </div>
-                    <div class="deskripsiKapal">
-                        <h2>KM KELIMUTU SURABAYA - SAMPIT</h5>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
                             <p> The Kelimutu Ship sailed again Thursday Evening for
                                 Surabaya to Sampit it has a passenger capacity of 1000.</p>
                     </div>
@@ -112,20 +70,12 @@
                 <img class="snippet-img" src="assets/image/kelud.jpg">
                 <div class="snippet-txt">
                     <div class="bulan">
-<<<<<<< HEAD
                         <p>JAN</p>
                         <h1>24</h1>
                     </div>
                     <div class="deskripsiKapal">
                         <h2>KM KELUD <br>
                             JAKARTA - MEDAN</h5>
-=======
-                        <p>DEC</p>
-                        <h1>24</h1>
-                    </div>
-                    <div class="deskripsiKapal">
-                        <h2>KM KELUD JAKARTA - MEDAN</h5>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
                             <p> The Kelud ship sailed again Friday evening for Tanjung Pinang,
                                 Batam and Belawan Medan. It has a passenger capacity of 2000.</p>
                     </div>
@@ -135,27 +85,18 @@
                 <img class="snippet-img" src="assets/image/dobon.jpg">
                 <div class="snippet-txt">
                     <div class="bulan">
-<<<<<<< HEAD
                         <p>JAN</p>
                         <h1>29</h1>
                     </div>
                     <div class="deskripsiKapal">
                         <h2>KM DOBONSOLO <br>
                             SURABAYA - AMBON</h5>
-=======
-                        <p>DEC</p>
-                        <h1>29</h1>
-                    </div>
-                    <div class="deskripsiKapal">
-                        <h2>KM DOBONSOLO SURABAYA - AMBON</h5>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
                             <p>The Dobonsolo ship has four classes of passenger cabins which
                                 can accommodate 1974 people.</p>
                     </div>
                 </div>
             </div>
         </div>
-<<<<<<< HEAD
         <div class="blog-index">
             <div class="snippet">
                 <img class="snippet-img" src="assets/image/adam air.jpg">
@@ -208,10 +149,7 @@
             </div>
         </div>
     </div>
-=======
-    </div>
 
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
     <!-- <div class="pesan">
         <button>Get ticket</button>
     </div> -->
@@ -247,22 +185,12 @@
         </div>
     </div> -->
     <div class="search">
-<<<<<<< HEAD
-    <img src="assets/image/peta duwa.png" alt="kapal">
+        <img src="assets/image/peta duwa.png" alt="kapal">
         <div class="search_isian">
             <h1>Make your own Journey!</h1>
             <h2>Organize your vacation event to tour the <br>
                 island with your friends</h2><br>
             <br>
-=======
-        <img src="assets/image/KAPAL 2.png" alt="kapal">
-        <div class="search_isian">
-            <h1>Make your own Ship!</h1>
-            <h2>Organize a boat departure event to tour the <br>
-                island with your friends</h2><br>
-            <br>
-            <!-- <a href="#" class="button">Create even ship</a> -->
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
         </div>
     </div>
 
@@ -291,17 +219,10 @@
             <section>
                 <div class="logo-container">
                     <a href="#">
-<<<<<<< HEAD
                         <img src="assets/image/jurney putih baru.png">
                     </a>
                 </div>
                 <p>Blue Journey is a ship and plane ticketing <br>
-=======
-                        <img src="assets/image/logo putih benar.png">
-                    </a>
-                </div>
-                <p>Mari Berlayar is a ship ticketing <br>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
                     company based in Surabaya, East Java. <br>
                     This company was founded in 2023 <br>
                     and has served the Indonesian people <br>
@@ -309,27 +230,15 @@
                     archipelago via sea transportation. </p>
             </section>
             <section class="duwa">
-<<<<<<< HEAD
                 <h3>Event</h3>
                 <ul>
-=======
-                <h3>Ship Event</h3>
-                <ul>
-                    <!-- <li><a href="#">Create and Set Up</a></li> -->
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
                     <li><a href="#">Buy Ticket</a></li>
                 </ul>
 
             </section>
             <section class="tiga">
-<<<<<<< HEAD
                 <h3>Blue Journey</h3>
                 <ul>
-=======
-                <h3>Mari berlayar</h3>
-                <ul>
-                    <!-- <li><a href="#">About us</a></li> -->
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
                     <li><a href="#">Ticket</a></li>
                     <li><a href="#">Types</a></li>
                     <li><a href="#">Schedule</a></li>
@@ -338,25 +247,16 @@
             <section class="empat">
                 <h3>Stay in the website</h3>
                 <ul>
-<<<<<<< HEAD
                     <li><i class="fas fa-envelope fa-fw"></i> Join our mailing list to stay in the Website with our
                         newest event
                     <li>
-=======
-                    <li><i class="fas fa-envelope fa-fw"></i> Join our mailing list to stay in the Website with our <br>
-                        newest for Event and concert li>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
                 </ul>
             </section>
         </div>
         <hr>
         <div class="footer-copyright">
             <div>
-<<<<<<< HEAD
                 <small class="kopirek">&copy; Copyright © 2022 BLUE JOURNEY</small>
-=======
-                <small class="kopirek">&copy; Copyright © 2022 MARI BERLAYAR</small>
->>>>>>> 2897615b90412cce025cc37c245c92b402beacad
             </div>
             <div>
                 <a href="#"><i class="fab fa-facebook fa-lg"></i></a>
